@@ -1,0 +1,8 @@
+{
+  "name": "koatest",
+  "description": "koajs test",
+  "version": "0.0.1",
+  "dependencies": {
+    "koa": "^2.3.0"
+  }
+}

@@ -1,0 +1,1 @@
+1. web目录中的所以工程公用一个package.json文件。
